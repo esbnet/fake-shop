@@ -25,3 +25,4 @@ jobs:
       - name: Deploy dos manifestos no Kubernetes
         run: echo "Executanto o comando kubectl apply"
       
+
